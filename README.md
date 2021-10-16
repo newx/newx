@@ -15,13 +15,13 @@ Web Hosting and other solutions. I've also bootstraped a few projects of my own.
 
 **WORKED AT:**
 
-* ActionBuilder: [actionbuilder.org](https://actionbuilder.org) (United States)
-* CrazyEgg: [crazyegg.com](https://crazyegg.com) (United States)
-* Envato: [envato.com](https://envato.com) (Australia)
-* Pressed: [pressed.net](https://pressed.net) (United States)
-* ReferralCandy: [referralcandy.com](https://www.referralcandy.com) (Singapore)
-* Site5: [site5.com](https://www.site5.com) (United States)
-* Critsend: [critsend.com](https://www.critsend.com) (France)
+* ActionBuilder: [actionbuilder.org](https://actionbuilder.org) (:us: United States)
+* CrazyEgg: [crazyegg.com](https://crazyegg.com) (:us: United States)
+* Envato: [envato.com](https://envato.com) (:australia: Australia)
+* Pressed: pressed.net (:us: United States)
+* ReferralCandy: [referralcandy.com](https://www.referralcandy.com) (:singapore: Singapore)
+* Site5: [site5.com](https://www.site5.com) (:us: United States)
+* Critsend: [critsend.com](https://www.critsend.com) (:fr: France)
 * and more...
 
 **PERSONAL**
@@ -30,7 +30,7 @@ Web Hosting and other solutions. I've also bootstraped a few projects of my own.
 * I speak **portuguese**, **english** and I'm trying to learn **chinese**.
 
 
-**Reach me**
+**LINKS**
 
 * Website: [newx.dev](http://newx.dev)
 * Twitter: [https://twitter.com/newton_garcia](https://twitter.com/newton_garcia)

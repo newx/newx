@@ -1,12 +1,12 @@
 # Newton Garcia (newx)
 
-I'm an Software Developer with 15 years of experience working on many E-Commerce, Email Marketing,
+I'm an Software Developer from Brazil, with ~15 years of experience working on many E-Commerce, Email Marketing,
 Web Hosting and other solutions. I've also bootstraped a few projects of my own.
 
 **WORK**
 
 * I'm currently working as a Ruby Backend Developer (contractor).
-* I use daily: `.rb`, `.js`.
+* I use daily: `.rb`, `.js`, `.html`.
 * I’m looking to collaborate on open source/commercial projects.
 * Have done a few contributions to [graphql-ruby](https://github.com/rmosolgo/graphql-ruby/graphs/contributors).
 * Bootstrapped Mailtrack, MaiorDesconto, Kivu, etc...

@@ -1,7 +1,7 @@
 # Newton Garcia (newx)
 
-I'm an Software Developer with 15 years of experience working on E-Commerce, Email Marketing,
-Web Hosting solutions and also bootstrap a few projects of my own.
+I'm an Software Developer with 15 years of experience working on many E-Commerce, Email Marketing,
+Web Hosting and other solutions. I've also bootstraped a few projects of my own.
 
 **WORK**
 
@@ -26,7 +26,7 @@ Web Hosting solutions and also bootstrap a few projects of my own.
 
 **PERSONAL**
 
-* 🌍 Travelled to 26 countries: :brazil:, 🇦🇺
+* 🌍 Travelled to 25 countries: :brazil:, :australia:, :us:, :bolivia:, :peru:, :argentina:, :singapore:, :thailand:, :indonesia:, :vietnam:, :hong_kong:, :cn:, :ru:, :belgium:, :fr:, :de:, :es:, :andorra:, :india:, :nepal:, :new_zealand:, :south_africa:, :mexico:, :it:, :greece:, :egypt:
 * I speak **portuguese**, **english** and I'm trying to learn **chinese**.
 
 

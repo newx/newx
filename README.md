@@ -8,7 +8,7 @@ Web Hosting and other solutions. I've also bootstraped a few projects of my own.
 * I'm currently working as a Ruby Backend Developer (contractor).
 * I use daily: `.rb`, `.js`, `.html`.
 * I’m looking to collaborate on open source/commercial projects.
-* Have done a few contributions to [graphql-ruby](https://github.com/rmosolgo/graphql-ruby), a Ruby implementation of GraphQL. ([contributions](https://github.com/rmosolgo/graphql-ruby/commits?author=newx), [contributors](https://github.com/rmosolgo/graphql-ruby/graphs/contributors))
+* Have done a few contributions to [graphql-ruby](https://github.com/rmosolgo/graphql-ruby). ([link](https://github.com/rmosolgo/graphql-ruby/commits?author=newx), [link](https://github.com/rmosolgo/graphql-ruby/graphs/contributors))
 * Bootstrapped Mailtrack, MaiorDesconto, Kivu, etc...
 * Learning all about **Ruby**, **Ruby on Rails**, **C Programming**, **Kubernetes (K8s)**.
 

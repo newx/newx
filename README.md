@@ -32,7 +32,6 @@ Web Hosting and other solutions. I've also bootstraped a few projects of my own.
 
 **LINKS**
 
-* Website: [newx.dev](http://newx.dev)
 * Twitter: [https://twitter.com/newton_garcia](https://twitter.com/newton_garcia)
 * Instagram: [instagram.com/newx](https://instagram.com/newx)
 * LinkedIn: [br.linkedin.com/in/newtongarcia](https://br.linkedin.com/in/newtongarcia)

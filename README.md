@@ -1,7 +1,7 @@
 # Newton Garcia (newx)
 
 I'm an Software Developer from Brazil, with ~15 years of experience working on many E-Commerce, Email Marketing,
-Web Hosting and other solutions. I've also bootstraped a few projects of my own.
+Web Hosting and other solutions. I've also bootstrapped a few projects of my own.
 
 **WORK**
 

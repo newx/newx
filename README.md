@@ -26,7 +26,7 @@ Web Hosting and other solutions. I've also bootstrapped a few projects of my own
 
 **PERSONAL**
 
-* 🌍 Travelled to 26 countries: :brazil:, :australia:, :us:, :bolivia:, :peru:, :argentina:, :singapore:, :thailand:, :indonesia:, :vietnam:, :hong_kong:, :cn:, :ru:, :belgium:, :fr:, :de:, :es:, :andorra:, :india:, :nepal:, :new_zealand:, :south_africa:, :mexico:, :it:, :greece:, :egypt:
+* 🌍 Travelled to 37 countries: :brazil:, :australia:, :us:, :bolivia:, :peru:, :argentina:, :singapore:, :thailand:, :indonesia:, :vietnam:, :hong_kong:, :cn:, :ru:, :belgium:, :fr:, :de:, :es:, :andorra:, :india:, :nepal:, :new_zealand:, :south_africa:, :mexico:, :it:, :greece:, :egypt:, 🇮🇸, 🇹🇷, 🇮🇱, 🇦🇪, 🇯🇴, 🇬🇧, 🇨🇴, 🇬🇹
 * I speak **portuguese**, **english** and I'm trying to learn **chinese**.
 
 

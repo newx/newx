@@ -24,6 +24,11 @@ Web Hosting and other solutions. I've also bootstrapped a few projects of my own
 * Critsend: [critsend.com](https://www.critsend.com) (:fr: France)
 * and more...
 
+** MY PROJECTS **
+
+* ChatifiedAI [chatified.ai](https://chatified.ai) - AI Voice agents for your business. 
+* MailMachine [mailmachine.co](https://mailmachine.co)
+
 **PERSONAL**
 
 * 🌍 Travelled to 37 countries: :brazil:, :australia:, :us:, :bolivia:, :peru:, :argentina:, :singapore:, :thailand:, :indonesia:, :vietnam:, :hong_kong:, :cn:, :ru:, :belgium:, :fr:, :de:, :es:, :andorra:, :india:, :nepal:, :new_zealand:, :south_africa:, :mexico:, :it:, :greece:, :egypt:, 🇮🇸, 🇹🇷, 🇮🇱, 🇦🇪, 🇯🇴, 🇬🇧, 🇨🇴, 🇬🇹

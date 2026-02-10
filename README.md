@@ -26,7 +26,7 @@ Web Hosting and other solutions. I've also bootstrapped a few projects of my own
 
 **MY PROJECTS**
 
-* ChatifiedAI [chatified.ai](https://chatified.ai) - AI Voice agents for your business. 
+* ChatifiedAI [chatified.co](https://chatified.co) - AI Voice agents for your business. 
 * MailMachine [mailmachine.co](https://mailmachine.co)
 
 **PERSONAL**

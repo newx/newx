@@ -2,6 +2,7 @@
 
 I'm an Software Developer from Brazil, with ~15 years of experience working on many E-Commerce, Email Marketing,
 Web Hosting and other solutions. I've also bootstrapped a few projects of my own.
+Currently building [chatified.co](https://chatified.co)
 
 **WORK**
 
@@ -15,13 +16,16 @@ Web Hosting and other solutions. I've also bootstrapped a few projects of my own
 
 **WORKED AT:**
 
-* ActionBuilder: [actionbuilder.org](https://actionbuilder.org) (:us: United States)
-* CrazyEgg: [crazyegg.com](https://crazyegg.com) (:us: United States)
-* Envato: [envato.com](https://envato.com) (:australia: Australia)
-* Pressed: pressed.net (:us: United States)
-* ReferralCandy: [referralcandy.com](https://www.referralcandy.com) (:singapore: Singapore)
-* Site5: [site5.com](https://www.site5.com) (:us: United States)
-* Critsend: [critsend.com](https://www.critsend.com) (:fr: France)
+* ActionBuilder - [actionbuilder.org](https://actionbuilder.org) (:us: United States)
+* GetWendi - Closed (formerly getwendi.com) (:us: United States)
+* Neat - [neat.com](https://www.neat.com) (:us: United States)
+* CrazyEgg - [crazyegg.com](https://crazyegg.com) (:us: United States)
+* Envato - [envato.com](https://envato.com) (:australia: Australia)
+* Pressed - Closed (formerly pressed.net) (:us: United States)
+* World Wide Web Hosting (WWWH) - Closed (formerly wwwh.com) (:us: United States)
+* ReferralCandy - [referralcandy.com](https://www.referralcandy.com) (:singapore: Singapore)
+* Site5 - [site5.com](https://www.site5.com) (:us: United States)
+* Critsend - [critsend.com](https://www.critsend.com) (:fr: France)
 * and more...
 
 **MY PROJECTS**
@@ -31,7 +35,7 @@ Web Hosting and other solutions. I've also bootstrapped a few projects of my own
 
 **PERSONAL**
 
-* 🌍 Travelled to 37 countries: :brazil:, :australia:, :us:, :bolivia:, :peru:, :argentina:, :singapore:, :thailand:, :indonesia:, :vietnam:, :hong_kong:, :cn:, :ru:, :belgium:, :fr:, :de:, :es:, :andorra:, :india:, :nepal:, :new_zealand:, :south_africa:, :mexico:, :it:, :greece:, :egypt:, 🇮🇸, 🇹🇷, 🇮🇱, 🇦🇪, 🇯🇴, 🇬🇧, 🇨🇴, 🇬🇹
+* 🌍 Travelled to 42 countries: :brazil:, :australia:, :us:, :bolivia:, :peru:, :argentina:, :singapore:, :thailand:, :indonesia:, :vietnam:, :hong_kong:, :cn:, :ru:, :belgium:, :fr:, :de:, :es:, :andorra:, :india:, :nepal:, :new_zealand:, :south_africa:, :mexico:, :it:, :greece:, :egypt:, 🇮🇸, 🇹🇷, 🇮🇱, 🇦🇪, 🇯🇴, 🇬🇧, 🇨🇴, 🇬🇹, 🇵🇾, 🇵🇹, 🇩🇰, 🇬🇱, 🇹🇼, 🗾, 🇵🇭, 🇺🇾, :south_korea, 🇲🇾, 🏴󠁧󠁢󠁥󠁮󠁧󠁿, 🇨🇱
 * I speak **portuguese**, **english** and I'm trying to learn **chinese**.
 
 

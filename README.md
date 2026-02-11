@@ -36,7 +36,7 @@ Currently building [chatified.co](https://chatified.co)
 **PERSONAL**
 
 * 🌍 Travelled to 42 countries: :brazil:, :australia:, :us:, :bolivia:, :peru:, :argentina:, :singapore:, :thailand:, :indonesia:, :vietnam:, :hong_kong:, :cn:, :ru:, :belgium:, :fr:, :de:, :es:, :andorra:, :india:, :nepal:, :new_zealand:, :south_africa:, :mexico:, :it:, :greece:, :egypt:, 🇮🇸, 🇹🇷, 🇮🇱, 🇦🇪, 🇯🇴, 🇬🇧, 🇨🇴, 🇬🇹, 🇵🇾, 🇵🇹, 🇩🇰, 🇬🇱, 🇹🇼, 🗾, 🇵🇭, 🇺🇾, :south_korea, 🇲🇾, 🏴󠁧󠁢󠁥󠁮󠁧󠁿, 🇨🇱
-* I speak **portuguese**, **english** and I'm trying to learn **chinese**.
+* I speak **portuguese**, **english**, some **spanish** and I'm trying to learn **chinese**.
 
 
 **LINKS**

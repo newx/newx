@@ -11,7 +11,7 @@ Currently building [chatified.co](https://chatified.co)
 * I’m looking to collaborate on open source/commercial projects.
 * Have done a few contributions to [graphql-ruby](https://github.com/rmosolgo/graphql-ruby). ([commits](https://github.com/rmosolgo/graphql-ruby/commits?author=newx), [contributors](https://github.com/rmosolgo/graphql-ruby/graphs/contributors))
 * Bootstrapped Mailtrack, MaiorDesconto, Kivu, etc...
-* Learning all about **Ruby**, **Ruby on Rails**, **C Programming**, **Kubernetes (K8s)**.
+* Learning all about **Ruby**, **Ruby on Rails**, **AI**, **LLMs**, **AI Agents**, **Software Engineering**, **Software Architecture** 
 
 
 **WORKED AT:**

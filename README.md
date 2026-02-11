@@ -16,16 +16,16 @@ Currently building [chatified.co](https://chatified.co)
 
 **WORKED AT:**
 
-* ActionBuilder - [actionbuilder.org](https://actionbuilder.org) (:us: United States)
-* GetWendi - Closed (formerly getwendi.com) (:us: United States)
-* Neat - [neat.com](https://www.neat.com) (:us: United States)
-* CrazyEgg - [crazyegg.com](https://crazyegg.com) (:us: United States)
-* Envato - [envato.com](https://envato.com) (:australia: Australia)
-* Pressed - Closed (formerly pressed.net) (:us: United States)
-* World Wide Web Hosting (WWWH) - Closed (formerly wwwh.com) (:us: United States)
-* ReferralCandy - [referralcandy.com](https://www.referralcandy.com) (:singapore: Singapore)
-* Site5 - [site5.com](https://www.site5.com) (:us: United States)
-* Critsend - [critsend.com](https://www.critsend.com) (:fr: France)
+* ActionBuilder - [actionbuilder.org](https://actionbuilder.org) (:us United States)
+* GetWendi - Closed (formerly getwendi.com) (:us United States)
+* Neat - [neat.com](https://www.neat.com) (:us United States)
+* CrazyEgg - [crazyegg.com](https://crazyegg.com) (:us United States)
+* Envato - [envato.com](https://envato.com) (:australia Australia)
+* Pressed - Closed (formerly pressed.net and acquired by Envato) (:us United States)
+* World Wide Web Hosting (WWWH) - Closed (formerly wwwh.com) (:us United States)
+* ReferralCandy - [referralcandy.com](https://www.referralcandy.com) (:singapore Singapore)
+* Site5 - [site5.com](https://www.site5.com) (:us United States)
+* Critsend - [critsend.com](https://www.critsend.com) (:fr France)
 * and more...
 
 **MY PROJECTS**

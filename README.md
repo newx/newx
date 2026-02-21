@@ -1,7 +1,10 @@
 # Newton Garcia (newx)
 
+[newx.sh](https://newx.sh)
+
 I'm an Software Developer from Brazil, with ~15 years of experience working on many E-Commerce, Email Marketing,
 Web Hosting and other solutions. I've also bootstrapped a few projects of my own.
+
 Currently building [chatified.co](https://chatified.co)
 
 **WORK**
@@ -41,6 +44,7 @@ Currently building [chatified.co](https://chatified.co)
 
 **LINKS**
 
+• Website: [newx.sh](https://newx.sh)
 * Twitter: [https://twitter.com/newton_garcia](https://twitter.com/newton_garcia)
 * Instagram: [instagram.com/newx](https://instagram.com/newx)
 * LinkedIn: [br.linkedin.com/in/newtongarcia](https://br.linkedin.com/in/newtongarcia)

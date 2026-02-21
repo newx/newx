@@ -44,7 +44,7 @@ Currently building [chatified.co](https://chatified.co)
 
 **LINKS**
 
-• Website: [newx.sh](https://newx.sh)
+* Website: [newx.sh](https://newx.sh)
 * Twitter: [https://twitter.com/newton_garcia](https://twitter.com/newton_garcia)
 * Instagram: [instagram.com/newx](https://instagram.com/newx)
 * LinkedIn: [br.linkedin.com/in/newtongarcia](https://br.linkedin.com/in/newtongarcia)
